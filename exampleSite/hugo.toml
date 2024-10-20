@@ -94,11 +94,11 @@ link = "plugins/google-map/gmap.js"
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "SMA Majapahit Trowulan Support By Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Jln. Syech Jumadil Kubro No. 297 A, Sentonorejo, Trowulan, Mojokerto, Jawa Timur 61362"
+mobile = "03214890829"
+email = "smamajapahitsatu@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -135,17 +135,17 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/smajatrow/"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/smajatrow/"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/smajatrow/"
 
 [[params.social]]
 title = "github"
@@ -160,15 +160,15 @@ link = "#"
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "En"
-languageCode = "en-us"
+languageName = "in"
+languageCode = "in"
 contentDir = "content/english"
 weight = 1
 
 [Languages.en.params]
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "Copyright &copy; 2024 SMA Majapahit Support By Hugo Theme"
 
 
 
