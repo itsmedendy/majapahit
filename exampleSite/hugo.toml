@@ -91,7 +91,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "https://instagram.fsub8-2.fna.fbcdn.net/v/t51.2885-19/449260264_468940845831607_2469640418619708388_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsub8-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=9_-EGARswx4Q7kNvgEtsWNo&_nc_gid=dff752275b6549a2a060de600723fd76&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYB1vopKUUmnYJu0Dp37Z-6bxLrRP-gcxCrlbOgaA_6tyw&oe=671ACE15&_nc_sid=22de04"
+logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
 author = "SMA Majapahit Trowulan Support By Themefisher"
